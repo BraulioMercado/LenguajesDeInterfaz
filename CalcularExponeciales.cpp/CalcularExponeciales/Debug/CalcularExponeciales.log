@@ -1,0 +1,3 @@
+﻿  CalcularExponeciales.cpp
+E:\Users\braul\source\repos\CalcularExponeciales\CalcularExponeciales\CalcularExponeciales.cpp(12,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  CalcularExponeciales.vcxproj -> E:\Users\braul\source\repos\CalcularExponeciales\Debug\CalcularExponeciales.exe
